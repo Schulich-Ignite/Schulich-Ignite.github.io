@@ -3145,6 +3145,11 @@ input, select, textarea {
 		padding:20px;
 	}
 
+	#slides{
+		color:#141414;
+		padding:20px;
+	}
+
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
 		overflow-x: auto;
